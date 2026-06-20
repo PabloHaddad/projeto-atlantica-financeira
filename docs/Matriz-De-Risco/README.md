@@ -16,7 +16,7 @@
   </p>
   <div style="margin-top: 15px;">
     <a href="https://app.notion.com/p/Governan-a-Riscos-e-Metodologia-ETP-Atl-ntica-Financeira-S-A-381130d71bbf801fbebdf3f7fdbf8e5a?source=copy_link" target="_blank" style="background-color: #000000; color: #ffffff; padding: 10px 20px; text-decoration: none; font-weight: 600; border-radius: 6px; font-size: 14px; display: inline-block; transition: background 0.2s;">
-      🔗 Acessar Matriz Interativa no Notion →
+      🔗 Acessar Documentação da Matriz de Risco no Notion →
     </a>
   </div>
 </div>
